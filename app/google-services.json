@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331858368794",
+    "project_id": "notificationapp-c1f57",
+    "storage_bucket": "notificationapp-c1f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331858368794:android:19681cc3d21bbb69b634a3",
+        "android_client_info": {
+          "package_name": "com.kautec.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331858368794-l5n5r1kbeqcdt4og9l6bclba7hghdaec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALjaantEDkC0cApZK1FG4FluxYjJ-8jm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331858368794-l5n5r1kbeqcdt4og9l6bclba7hghdaec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
